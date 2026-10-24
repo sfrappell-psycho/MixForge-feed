@@ -1,0 +1,8 @@
+{
+  "name": "mixforge-feed",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node scripts/check.mjs feed.json && node scripts/check.mjs --self-test"
+  }
+}

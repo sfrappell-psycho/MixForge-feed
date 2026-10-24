@@ -1,0 +1,350 @@
+{
+  "version": 1,
+  "updated": "2026-10-24",
+  "hot": [
+    {
+      "id": "not-an-id",
+      "title": "Fred again.. | Boiler Room: London",
+      "channel": "Boiler Room",
+      "published": "2022-02-08",
+      "tags": [
+        "Fred again..",
+        "house"
+      ]
+    },
+    {
+      "id": "vy-k0FopsmY",
+      "title": "Carl Cox Boiler Room Ibiza Villa Takeovers DJ Set",
+      "channel": "Boiler Room",
+      "published": "2019-07-18",
+      "tags": [
+        "Carl Cox",
+        "techno",
+        "tech house"
+      ]
+    },
+    {
+      "id": "-UOMvxh4MYU",
+      "title": "Peggy Gou for Cercle at Palais des Beaux-Arts de Lille, France",
+      "channel": "Cercle",
+      "published": "2024-06-20",
+      "tags": [
+        "Peggy Gou",
+        "acid house",
+        "house"
+      ]
+    },
+    {
+      "id": "KS6KPNusfFQ",
+      "title": "Tame Impala at Parque de Quetzalcóatl, Mexico, for Cercle",
+      "channel": "Cercle",
+      "published": "2024-11-14",
+      "tags": [
+        "Tame Impala",
+        "indie dance"
+      ]
+    },
+    {
+      "id": "-4FPIL6e4SQ",
+      "title": "Shimza for Cercle at Citadelle de Sisteron, France",
+      "channel": "Cercle",
+      "published": "2024-08-29",
+      "tags": [
+        "Shimza",
+        "afro house"
+      ]
+    },
+    {
+      "id": "A8Mz713rkE4",
+      "title": "RÜFÜS DU SOL (DJ SET) Backstage at The Gorge, May 2026",
+      "channel": "RÜFÜS DU SOL",
+      "published": "2026-06-05",
+      "tags": [
+        "RÜFÜS DU SOL",
+        "melodic house"
+      ]
+    },
+    {
+      "id": "mWBl5zGkmOw",
+      "title": "James Holden at The Social London | Rare 2010 Electronic Archive",
+      "channel": "DJ Trainspotter TV",
+      "published": "2025-03-12",
+      "tags": [
+        "James Holden",
+        "progressive",
+        "techno"
+      ],
+      "note": "Flawless long-form transitions: slow-burn tension, release and hypnotic programming"
+    },
+    {
+      "id": "7wZ5-lb7bQ4",
+      "title": "Theo Parrish Boiler Room London DJ Set",
+      "channel": "Boiler Room",
+      "published": "2016-05-10",
+      "tags": [
+        "Theo Parrish",
+        "Detroit house",
+        "disco"
+      ],
+      "note": "Unpredictable programming: raw Motown soul edits against heavy techno basslines"
+    },
+    {
+      "id": "BSARofzaxZo",
+      "title": "Ryan Elliott | Mixmag Lab London",
+      "channel": "Mixmag",
+      "published": "2023-09-21",
+      "tags": [
+        "Ryan Elliott",
+        "house"
+      ],
+      "note": "Intimate technical execution: up-close angles on hand placement, EQing and loop triggers"
+    },
+    {
+      "id": "TEXZSzPpZqo",
+      "title": "Japanese Funk and Soul on Vinyl (late 70's, early 80's)",
+      "channel": "MAJ",
+      "published": "2025-10-02",
+      "tags": [
+        "My Analog Journal",
+        "funk",
+        "soul",
+        "vinyl"
+      ],
+      "note": "Genre exploration and deep digging: phrase-matching vinyl without a BPM display"
+    }
+  ],
+  "viral": [
+    {
+      "id": "s-gVxITC_pI",
+      "title": "Fred again.. x Swedish House Mafia - Turn on the Lights again.. (ft. Future) [Live from Boiler Room]",
+      "channel": "Fred again . .",
+      "published": "2022-12-02",
+      "tags": [
+        "Fred again..",
+        "Swedish House Mafia",
+        "house"
+      ]
+    },
+    {
+      "id": "aloPGSlq31Y",
+      "title": "JOHN SUMMIT LIVE @ ULTRA MIAMI MAIN STAGE 2026",
+      "channel": "John Summit",
+      "published": "2026-03-30",
+      "tags": [
+        "John Summit",
+        "tech house"
+      ]
+    },
+    {
+      "id": "HfNfZY6KoWg",
+      "title": "BEST BOILER ROOM MOMENTS - Fred Again...",
+      "channel": "BoppinTV",
+      "published": "2023-04-15",
+      "tags": [
+        "Fred again..",
+        "house"
+      ]
+    },
+    {
+      "id": "nrGT6AQTWhE",
+      "title": "LIVE - Djs From Mars - 20 Years Of Festival Anthems Megamashup - 100 Songs in 13 Minutes (Live Mix)",
+      "channel": "DjsFromMars",
+      "published": "2025-12-20",
+      "tags": [
+        "Djs From Mars",
+        "mashup",
+        "electro house"
+      ],
+      "note": "Multi-song wordplay: harmonic mixing that pitch-bends different genres into one club anthem"
+    },
+    {
+      "id": "knqGVAqSWxg",
+      "title": "Djs From Mars - Best Of 2025 Megamashup - 50 songs in 7 minutes",
+      "channel": "DjsFromMars",
+      "published": "2025-12-28",
+      "tags": [
+        "Djs From Mars",
+        "mashup"
+      ],
+      "note": "Multi-song wordplay: harmonic mixing that pitch-bends different genres into one club anthem"
+    },
+    {
+      "id": "fQ776mhmDoM",
+      "title": "PARTY MIX 2026 | #80 | The Best Remixes & Mashups of Popular Songs - Mixed by Deejay FDB",
+      "channel": "deejayFDB",
+      "published": "2026-02-14",
+      "tags": [
+        "Deejay FDB",
+        "mashup",
+        "mainstage"
+      ],
+      "note": "Modern quick-mixing: rapid drop swaps and trending acapellas"
+    }
+  ],
+  "methods": [
+    {
+      "id": "Dmb5GmLkbrY",
+      "title": "Bass Swap EQ Mixing Technique | Mix & Tricks #4 with XDJ-RX3",
+      "channel": "AlphaTheta / Pioneer DJ USA",
+      "published": "2024-05-07",
+      "tags": [
+        "bass swap",
+        "EQ"
+      ]
+    },
+    {
+      "id": "C-5qFyU9QNU",
+      "title": "2 DJ Transition Styles and When to Swap Your Basses",
+      "channel": "Club Ready DJ School",
+      "published": "2023-10-11",
+      "tags": [
+        "bass swap",
+        "transitions"
+      ]
+    },
+    {
+      "id": "4elcWB2TJcs",
+      "title": "How To Make Every Transition Hit Harder",
+      "channel": "Club Ready DJ School",
+      "published": "2024-02-20",
+      "tags": [
+        "transitions"
+      ]
+    },
+    {
+      "id": "z0mFNt1ZTBw",
+      "title": "5 DJ EQ Techniques That Instantly Improve Your Mixes",
+      "channel": "Club Ready DJ School",
+      "published": "2023-07-26",
+      "tags": [
+        "EQ"
+      ]
+    },
+    {
+      "id": "5pEA7m9xRHA",
+      "title": "How to use Acapellas to Mix in a DJ Set!",
+      "channel": "DJ Carlo",
+      "published": "2022-09-13",
+      "tags": [
+        "mashup",
+        "acapella"
+      ]
+    },
+    {
+      "id": "aa3G7T0V37M",
+      "title": "Sampling Songs & Stems in DJ Studio | Mashups, Vocals & Acapellas Part 2",
+      "channel": "DJ.Studio",
+      "published": "2025-04-09",
+      "tags": [
+        "mashup",
+        "stems"
+      ]
+    },
+    {
+      "title": "Swap the bass on the phrase",
+      "tip": "Cut the outgoing bass and bring in the incoming bass exactly on a phrase boundary, never mid-phrase."
+    },
+    {
+      "id": "m0oL18s6uLc",
+      "title": "Laidback Luke's 5 Creative DJing Techniques - Live From ADE 2019",
+      "channel": "Digital DJ Tips",
+      "published": "2019-10-25",
+      "tags": [
+        "Laidback Luke",
+        "mashup",
+        "live bootlegs"
+      ],
+      "note": "Live mashups and re-edits: combining live acapellas with iconic instrumentals on the fly on standard Pioneer gear"
+    },
+    {
+      "id": "aJDaHfWPfwY",
+      "title": "Laidback Luke talks mashups, bootlegs and re-edits! #TuesdayTipsLive",
+      "channel": "Digital DJ Tips",
+      "published": "2020-06-23",
+      "tags": [
+        "Laidback Luke",
+        "mashup",
+        "re-edits"
+      ],
+      "note": "Live mashups and re-edits: combining live acapellas with iconic instrumentals on the fly on standard Pioneer gear"
+    },
+    {
+      "title": "Mids in early, highs overlapping",
+      "tip": "Bring the incoming mids in early, then let the highs overlap the outgoing track for a smooth blend."
+    },
+    {
+      "id": "FY8SwIvxj8o",
+      "title": "Sir Mashalot: Mind-Blowing SIX Song Country Mashup",
+      "channel": "Sir Mashalot",
+      "published": "2024-01-18",
+      "tags": [
+        "mashup",
+        "song structure",
+        "open format"
+      ],
+      "note": "Structural analysis: how top hits share one arrangement formula, a quick-mixing trick"
+    },
+    {
+      "id": "WBt2DUVRk2g",
+      "title": "Shane 54 - Anatomy of a Megamix - Vol. 4",
+      "channel": "Shane54",
+      "published": "2023-12-05",
+      "tags": [
+        "Shane 54",
+        "harmonic mixing",
+        "trance",
+        "megamix"
+      ],
+      "note": "Harmonic precision: 187 songs in an hour on Mixed In Key alignment"
+    }
+  ],
+  "news": [
+    {
+      "title": "MixForge has a Home",
+      "body": "MixForge now opens on a Home screen: your projects as files you can rename, duplicate and delete, a curated feed of sets and techniques that reorders itself around the artists and genres you follow, and a place for news like this. The feed lives in a public repo and refreshes while you work.",
+      "date": "2026-10-24"
+    }
+  ],
+  "releases": [
+    {
+      "version": "1.3.0",
+      "title": "Home and projects",
+      "notes": [
+        "A Home screen with your projects, the feed and news.",
+        "Projects are now files: create, rename, duplicate and delete them.",
+        "A curated feed of sets, mashups and techniques, refreshed every few hours.",
+        "A welcome page and profile so Home can favour your artists and genres.",
+        "A Settings page for launch behaviour, export folder and transition defaults."
+      ]
+    }
+  ],
+  "suggestions": {
+    "artists": [
+      "Fred again..",
+      "Carl Cox",
+      "Peggy Gou",
+      "John Summit",
+      "RÜFÜS DU SOL",
+      "Shimza",
+      "Tame Impala",
+      "Swedish House Mafia",
+      "Chris Lake",
+      "Dom Dolla",
+      "FISHER"
+    ],
+    "genres": [
+      "House",
+      "Tech house",
+      "Techno",
+      "Melodic house",
+      "Afro house",
+      "Progressive",
+      "Drum & bass",
+      "UK garage",
+      "Disco",
+      "Indie dance",
+      "Hip-hop",
+      "Trance"
+    ]
+  }
+}
